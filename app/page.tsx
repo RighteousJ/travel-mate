@@ -1,3 +1,7 @@
+"use client";
+
+import React from 'react';
+// ... 나머지 코드들
 import Image from "next/image";
 
 export default function Home() {
